@@ -5,4 +5,5 @@ This repository is the starting point of the assignments given in the course [Co
 
 Vera MOLNAR (1924-2023) Electra, 1983 ink on paper 29,5 x 42 cm courtesy of MNB Arts and Culture
 https://www.artbooms.com/blog/vera-molnar
+
 ![65b125c4b488888d2e3b67ca_5_Vera+MOLNAR_Electra_1983_courtesy+of+MNB+Arts+and+Culture](https://github.com/user-attachments/assets/b343f65b-0df7-4af8-9437-f727a79532ae)
