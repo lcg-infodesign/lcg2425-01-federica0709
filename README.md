@@ -4,4 +4,5 @@
 This repository is the starting point of the assignments given in the course [Computergrafica per l'Information Design](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=834257&lang=IT&__pj0=0&__pj1=9c10fe379e96db59d55d49b6b4252c5e).
 
 Vera MOLNAR (1924-2023) Electra, 1983 ink on paper 29,5 x 42 cm courtesy of MNB Arts and Culture
+https://www.artbooms.com/blog/vera-molnar
 ![65b125c4b488888d2e3b67ca_5_Vera+MOLNAR_Electra_1983_courtesy+of+MNB+Arts+and+Culture](https://github.com/user-attachments/assets/b343f65b-0df7-4af8-9437-f727a79532ae)
